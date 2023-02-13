@@ -1,0 +1,2 @@
+#!/bin/bash
+find -type f -name '' *.gig -print f '%f/n'' |rev| cut -d '.' -f2- |rev| LC-A LL= c sort -f
